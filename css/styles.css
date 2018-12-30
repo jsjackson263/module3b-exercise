@@ -1,0 +1,41 @@
+body {
+  font-size: 16px;
+  background-color: #FF9999;
+  color: black;
+}
+
+#header-nav {
+  background-color: #FFB266;
+  border: 0;
+  border-radius: 0;
+}
+
+#brand-name {  /* Food, LLC */
+  margin-top: 10px;
+  font-size: 1.5em;
+  font-weight: bold;
+  color: red;
+
+}
+
+.navbar-header button.navbar-toggle:hover {
+  background: #E7E7E7;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #61122f;
+}
+
+#menu-items {
+  margin-top: 10px;
+}
+#menu-items a {
+  text-align: center;
+  color: #951C49;
+  font-size: 1.5em;
+  font-weight: bold;
+
+}
+
+#menu-items a:hover {
+  background: #E7E7E7;
+}
